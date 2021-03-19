@@ -1,5 +1,3 @@
-package PACKAGE_NAME;
-
 /**
  * @program: distributed‐security
  * @description:
@@ -7,4 +5,8 @@ package PACKAGE_NAME;
  * @create: 2021-03-19 14:24
  */
 public class demo {
+
+    public static void main(String[] args) {
+        System.out.println("测试");
+    }
 }
